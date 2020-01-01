@@ -1,0 +1,2 @@
+Developed a web application which displays results for a given query by calculating the page rank for NYTimes.com. The Search box also gives Auto-suggestions for queries as we type. The search engine also gives spelling suggestions for words which are incorrectly types. 
+Technologies Used: Java, Solr, Apache Tika, PHP, JQuery, AJAX
