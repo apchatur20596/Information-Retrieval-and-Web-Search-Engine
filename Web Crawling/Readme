@@ -1,0 +1,2 @@
+Developed a Program to crawl the NYTimes.com using Crawler4j. The program ran with 16 crawlers with a maximum depth of 10 per crawler. The maximum number of pages retrieved was set to 20000. 
+Technologies Used: Java, Crawler4j
